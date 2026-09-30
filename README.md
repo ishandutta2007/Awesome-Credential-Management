@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Credential-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Credential-Management?style=flat-square&logo=github" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Credential-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Credential-Management?style=flat-square&logo=github" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Credential-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Credential-Management?style=flat-square&logo=github" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Credential-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Credential-Management?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -37,7 +37,7 @@
 
 ## 🔓 Open-Source GitHub Projects 🛠️
 
-| Repository | Description | Stars |
+| Repository | Description | GitHub_Stars |
 | :--- | :--- | :--- |
 | **[hyperledger/indy-sdk](https://github.com/hyperledger/indy-sdk)** | Developer kit for Hyperledger Indy decentralized identity and verifiable credential management. | [<img src="https://img.shields.io/github/stars/hyperledger/indy-sdk?style=social&color=white" alt="Hyperledger Indy SDK Stars"/>](https://github.com/hyperledger/indy-sdk/stargazers) |
 | **[uport-project/veramo](https://github.com/uport-project/veramo)** | JavaScript framework for Verifiable Credentials, Decentralized Identifiers (DIDs), and Web3 identity. | [<img src="https://img.shields.io/github/stars/uport-project/veramo?style=social&color=white" alt="Veramo Stars"/>](https://github.com/uport-project/veramo/stargazers) |
@@ -78,4 +78,4 @@ Thank you for exploring **Awesome Credential Management**! If you find this cura
 
 ## ⚠️ Disclaimer ⚖️
 
-*This list is community-curated for informational purposes. Product specifications, pricing, and GitHub star counts are updated periodically. Digital credential implementations should comply with identity, privacy, and security standards applicable to your jurisdiction.*
+*This list is community-curated for informational purposes. Product specifications, pricing, and GitHub Stars_Counts are updated periodically. Digital credential implementations should comply with identity, privacy, and security standards applicable to your jurisdiction.*
